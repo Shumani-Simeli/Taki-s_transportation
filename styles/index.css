@@ -2,8 +2,29 @@
     background-color: #213555 !important;
 }
 
-.nav-link  {
+.nav-link, .nav-link a {
 
-    color: #F5EFE7 !important;
+    color: #F5EFE7!important;
 }
 
+a {
+    text-decoration: none;
+    color: #3E5879;
+}
+
+.service {
+    height: 55vh;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.service h3 {
+    color: #F5EFE7;
+}
+
+.wcu .col{
+    border: 1px solid #3E5879;
+    height: 22vh;
+    border-radius: 5px;
+    width: 48%;
+}
