@@ -28,3 +28,8 @@ a {
     border-radius: 5px;
     width: 48%;
 }
+
+div {
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
